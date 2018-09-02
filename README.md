@@ -3,7 +3,7 @@
 
 Simplified tabline with numbers for faster switching.
 
-This plugin adds a convenience mappings for switching between tabs by numbers:
+This plugin adds mappings for faster switching between tabs by numbers:
 
 ```
 noremap <leader>1 1gt
