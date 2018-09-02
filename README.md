@@ -3,7 +3,7 @@
 
 Simplified tabline with numbers for faster switching.
 
-This plugin adds mappings for faster switching between tabs by numbers:
+This plugin numbers to the tabline and mappings for faster switching between tabs:
 
 ```
 noremap <leader>1 1gt
@@ -29,5 +29,3 @@ git clone git://github.com/kevinms/taby.vim.git ~/.vim/bundle/taby.vim
 Then, restart vim.
 
 Or, use your favorite method!
-
-
