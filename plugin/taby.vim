@@ -48,7 +48,7 @@ function MyTabLabel(n)
 		endif
 	endfor
 	if modified > 0
-		"let s .= '[' . modified . '+]'
+		let s .= '[' . modified . '+]'
 	endif
 
 	" current buffer in current tab
