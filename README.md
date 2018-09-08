@@ -3,6 +3,8 @@
 
 Simplified tabline with numbers for faster switching.
 
+![taby.vim demo](https://i.imgur.com/MO9xpTS.gif)
+
 This plugin adds numbers to the tabline and mappings for faster switching between tabs:
 
 ```
